@@ -5,9 +5,15 @@ tags:
 navtitle: Home
 ---
 
-<h1>Latest 3 Posts</h1>
+<div class="explanation">
+    Небольшие субъективные заметки о&nbsp;прочитанных статьях про фронтенд (и&nbsp;не&nbsp;только) каждый день
+</div>
 
-{% set postslist = collections.posts | head(-3) %}
-{% include "postslist.njk" %}
+<div class="content-inner">
+    <h1>Последние 10 публикаций</h1>
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+    {% set postslist = collections.posts | head(-10) %}
+    {% include "postslist.njk" %}
+
+    <p>Больше публикаций можно найти в <a class="link" href="{{ '/posts/' | url }}">архиве</a>.</p>
+</div>
