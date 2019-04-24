@@ -115,7 +115,7 @@ body, div, h1, p {
 .main-footer {
     padding: 20px 0;
     margin-top: 50px;
-    border-top: 1px dashed black;
+    border-top: 1px dashed #aaa;
     text-align: center;
 }
 
