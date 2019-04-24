@@ -25,7 +25,7 @@
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
-  color: var(--darkgray);
+  color: #333;
 }
 .postlist-date {
   word-spacing: -0.5px;
@@ -42,20 +42,6 @@
   font-weight: 700;
 }
 
-
-/* Tags */
-.tag {
-  display: inline-block;
-  vertical-align: text-top;
-  text-transform: uppercase;
-  font-size: 0.625em; /* 10px /16 */
-  padding: 2px 4px;
-  margin-left: 0.8em; /* 8px /10 */
-  background-color: var(--red);
-  color: var(--white);
-  border-radius: 0.25em; /* 3px /12 */
-  text-decoration: none;
-}
 
 /* Warning */
 .warning {
@@ -114,7 +100,9 @@ body, div, h1, p {
     hyphens: auto;
 }
 
-.main-content h1 {
+.main-content h1,
+.main-content h2,
+.main-content h3 {
     font-family: Arial, sans-serif;
     line-height: 1.2em;
     font-size: 2em;
@@ -125,10 +113,14 @@ body, div, h1, p {
 }
 
 .main-footer {
-    /*width: 600px;*/
     padding: 20px 0;
     margin-top: 50px;
     border-top: 1px dashed black;
+    text-align: center;
+}
+
+.main-more,
+.main-title {
     text-align: center;
 }
 
@@ -208,4 +200,16 @@ body, div, h1, p {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+/* Tags */
+a.tag,
+a.tag:visited {
+  display: inline-block;
+  ertical-align: text-top;
+  text-transform: uppercase;
+  font-size: 0.625em;
+  padding: 2px 4px;
+  margin-left: 0.8em;
+  text-decoration: none;
 }
