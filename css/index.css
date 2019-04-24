@@ -189,10 +189,9 @@ body, div, h1, p {
     text-decoration: underline;
 }
 
-.explanation {
+.about-text {
     margin: 0 auto;
-    max-width: 500px;
-    text-align: center;
+    max-width: 600px;
 }
 
 .content-inner {
