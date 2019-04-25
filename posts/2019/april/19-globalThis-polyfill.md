@@ -1,5 +1,5 @@
 ---
-title: A horrifying globalThis polyfill in universal JavaScript
+title: Ужасающий полифилл для globalThis в универсальном JavaScript
 description: Детальное объяснение как работает полифилл globalThis
 date: 2019-04-19
 tags:

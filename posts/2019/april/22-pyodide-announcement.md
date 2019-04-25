@@ -1,5 +1,5 @@
 ---
-title: Pyodide - Bringing the scientific Python stack to the browser
+title: Pyodide - python datascience-стек в браузере
 description: Анонс релиза Pyodide - python datascience-стек в браузере
 date: 2019-04-22
 tags:

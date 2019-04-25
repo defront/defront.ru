@@ -1,5 +1,5 @@
 ---
-title: The Pitfalls of Async/Await in Array Loops
+title: Подводные камни async/await в циклах
 description: Async/Await в циклах
 date: 2019-04-20
 tags:

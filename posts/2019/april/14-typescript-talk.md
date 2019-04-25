@@ -1,5 +1,5 @@
 ---
-title: TypeScript - Static types for JavaScript
+title: TypeScript - статические типы для JavaScript
 description: Доклад про TypeScript от создателя языка
 date: 2019-04-14
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Upcoming WebHID API - access Bluetooth/USB HID devices in web applications
+title: Новый WebHID API - доступ к Bluetooth/USB HID-устройствам в web-приложениях
 description: Обзор нового WebHID API
 date: 2019-04-17
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Numeric Separators in Chrome 75
+title: Numeric Separators в Chrome 75
 description: Твит про развделители в числовых литералах.
 date: 2019-04-23
 tags:

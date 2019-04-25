@@ -1,5 +1,5 @@
 ---
-title: Introducing Node.js 12
+title: Представление Node.js 12
 description: Анонс релиза Node.js 12
 date: 2019-04-24
 tags:

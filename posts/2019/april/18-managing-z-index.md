@@ -1,5 +1,5 @@
 ---
-title: Managing Z-Index In A Component-Based Web Application
+title: Управление z-index'ами в приложениях, построенных на компонентах
 description: Подход к управлению z-index'ами в приложениях, построенных на компонентах
 date: 2019-04-18
 tags:
