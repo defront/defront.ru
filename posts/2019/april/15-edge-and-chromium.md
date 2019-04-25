@@ -1,6 +1,6 @@
 ---
-title: What to expect in the new Microsoft Edge Insider Channels
-description: Анонс о переходе Edge на кодовую базу Chromium
+title: Что ожидать нового в каналах Microsoft Edge Insider
+description: Анонс запланированных работ в Edge после перехода на Chromium
 date: 2019-04-15
 tags:
   - chromium
