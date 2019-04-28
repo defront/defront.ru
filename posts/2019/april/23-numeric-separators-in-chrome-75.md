@@ -14,7 +14,6 @@ layout: layouts/post.njk
 
 ```js
 const million = 1_000_000;
-const million = 1_000_000;const million = 1_000_000;const million = 1_000_000;const million = 1_000_000;
 const billion = 1_000_000_000;
 ```
 
