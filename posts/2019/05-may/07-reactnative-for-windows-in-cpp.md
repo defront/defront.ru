@@ -6,7 +6,6 @@ tags:
   - reactnative
   - microsoft
   - announcement
-
 layout: layouts/post.njk
 ---
 Сегодня на TechCrunch появилась [новость](https://techcrunch.com/2019/05/06/microsoft-launches-react-native-for-windows/) про выпуск React Native for Windows. Там же увидел комментарий, в котором говорится, что на самом деле он был выпущен три года назад. Действительно, старый анонс от Microsoft очень легко найти в интернете https://www.microsoft.com/developerblog/2016/05/26/creating-universal-windows-apps-with-react-native/.
