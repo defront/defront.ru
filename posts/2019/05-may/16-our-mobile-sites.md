@@ -2,6 +2,7 @@
 title: Наши урезанные мобильные веб-сайты
 description: Причины неполноценности мобильных сайтов и что с этим делать
 date: 2019-05-16
+url: https://habr.com/ru/post/451518/
 tags:
   - musings
   - mobile

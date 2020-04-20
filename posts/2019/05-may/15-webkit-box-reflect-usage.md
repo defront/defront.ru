@@ -2,6 +2,7 @@
 title: Китайский узор на оконе и CSS
 description: Изобретательный способ использования -webkit-box-reflect для симметричных изображений
 date: 2019-05-15
+url: https://yuanchuan.dev/2019/05/15/window-lattice-and-css.html
 tags:
   - css
   - experimental

@@ -2,6 +2,7 @@
 title: Под капотом WebAssembly
 description: Принципы работы виртуальной машины wasm
 date: 2019-05-19
+url: https://dassur.ma/things/raw-wasm/
 tags:
   - webassembly
   - vm

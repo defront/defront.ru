@@ -2,6 +2,7 @@
 title: Promise.allSettled — новый метод работы с промисами
 description: Обзор предложения в ECMAScript Promise.allSettled
 date: 2019-05-05
+url: https://github.com/tc39/proposal-promise-allSettled
 tags:
   - js
   - proposal

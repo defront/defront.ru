@@ -2,6 +2,7 @@
 title: Что нового в TypeScript (Microsoft Build 2019)
 description: Доклад Дэниала Розенвассера про новые возможности в TypeScript
 date: 2019-05-10
+url: https://www.youtube.com/watch?v=Au-rrY0afe4
 tags:
   - typescript
   - webassembly

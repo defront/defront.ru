@@ -2,6 +2,7 @@
 title: Что использовать, grid или flexbox?
 description: Размышления о том, где лучше использовать grid, а где flexbox
 date: 2019-05-06
+url: https://css-irl.info/to-grid-or-to-flex/
 tags:
   - css
   - layout

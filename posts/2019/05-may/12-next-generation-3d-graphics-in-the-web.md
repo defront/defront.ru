@@ -2,6 +2,7 @@
 title: Следующее поколоение 3D-графики в Web'е
 description: Доклад про текущее состояние WebGL и про новое API WebGPU
 date: 2019-05-12
+url: https://www.youtube.com/watch?v=K2JzIUIHIhc
 tags:
   - talk
   - webgl

@@ -2,6 +2,7 @@
 title: Проектирование offline-first сайта с учётом неустойчивого соединения
 description: Стратегия разработки offline-first для "Lie-Fi" соединения
 date: 2019-05-11
+url: https://adactio.com/journal/15122
 tags:
   - offlinefirst
   - serviceworker

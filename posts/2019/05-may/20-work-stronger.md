@@ -2,6 +2,7 @@
 title: Стимуляторы работы программиста. Здоровье
 description: Как сохранить здоровоье программисту
 date: 2019-05-20
+url: http://blog.csssr.ru/2019/05/07/work-stronger
 tags:
   - productivity
   - life

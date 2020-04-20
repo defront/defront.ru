@@ -2,6 +2,7 @@
 title: Анонс о смене курса разработки React Native для Windows
 description: Анонс про то, что React Native переписывается на C++
 date: 2019-05-07
+url: https://github.com/microsoft/react-native-windows/pull/2409
 tags:
   - reactnative
   - microsoft

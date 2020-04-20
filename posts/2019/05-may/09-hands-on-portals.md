@@ -2,6 +2,7 @@
 title: Порталы — бесшовная навигация между страницами
 description: Экспериментальная фича от Google для бесшовного перехода между страницами
 date: 2019-05-09
+url: https://web.dev/hands-on-portals
 tags:
   - wicg
   - webplatform

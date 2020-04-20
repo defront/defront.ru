@@ -2,6 +2,7 @@
 title: Что я хотел бы знать про выступления на технических конференциях
 description: Советы про подготовку хороших технических докладов
 date: 2019-05-14
+url: https://dev.to/tlakomy/what-i-wished-someone-told-me-about-speaking-at-tech-conferences-3opp
 tags:
   - conference
   - softskills

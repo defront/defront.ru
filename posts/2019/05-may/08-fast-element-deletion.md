@@ -2,6 +2,7 @@
 title: Быстрое удаление элемента из массива
 description: Находка Рича Харриса в коде three.js
 date: 2019-05-08
+url: https://twitter.com/rich_harris/status/1125850391155965952?s=21
 tags:
   - algorithm
   - js

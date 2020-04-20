@@ -2,6 +2,7 @@
 title: Как был создан новый facebook.com с помощью React Relay и GraphQL
 description: Доклад про внутреннее устройство обновленной версии facebook.com
 date: 2019-05-02
+url: https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/
 tags:
   - relay
   - codesplitting

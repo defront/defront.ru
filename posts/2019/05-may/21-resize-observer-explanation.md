@@ -2,6 +2,7 @@
 title: Объяснение работы Resize Observer
 description: Как работает Resize Observer
 date: 2019-05-21
+url: https://developers.google.com/web/updates/2016/10/resizeobserver
 tags:
   - web
   - performance

@@ -2,6 +2,7 @@
 title: Насколько дорого поддерживать react-beautiful-dnd?
 description: О поддержке проекта с открытым исходным кодом
 date: 2019-05-23
+url: https://dev.to/alexandereardon/what-does-react-beautiful-dnd-cost-to-maintain-52e8
 tags:
   - programming
   - musings

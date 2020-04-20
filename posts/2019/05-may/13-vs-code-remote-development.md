@@ -2,6 +2,7 @@
 title: Удалённая отладка в VS Code
 description: Анонс поддержки удалённой отладки в Visual Studio Code
 date: 2019-05-13
+url: https://code.visualstudio.com/blogs/2019/05/02/remote-development
 tags:
   - vscode
   - devexperience

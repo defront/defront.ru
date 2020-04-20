@@ -2,6 +2,7 @@
 title: Svelte 3 - переосмысление реактивности
 description: Обзор основных фич Svelte 3
 date: 2019-05-04
+url: https://svelte.dev/blog/svelte-3-rethinking-reactivity
 tags:
   - jsframeworks
   - svelte

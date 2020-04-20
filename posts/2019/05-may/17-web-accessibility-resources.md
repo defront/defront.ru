@@ -2,6 +2,7 @@
 title: Список ресурсов по a11y
 description: Список книг, статей, сайтов, курсов и инструментов, посвященных accessibility
 date: 2019-05-17
+url: https://marcysutton.com/web-accessibility-resources
 tags:
   - a11y
   - list

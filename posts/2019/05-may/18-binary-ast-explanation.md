@@ -2,6 +2,7 @@
 title: Быстрая загрузка скриптов с помщью Binary AST
 description: Описание предложения в TC39 - Binary AST
 date: 2019-05-18
+url: https://blog.cloudflare.com/binary-ast/
 tags:
   - js
   - proposal

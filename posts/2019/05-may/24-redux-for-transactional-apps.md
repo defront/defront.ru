@@ -2,6 +2,7 @@
 title: Redux для транзакционных приложений
 description: Разработчик из Netflix рассказывает про опыт разработки Redux-приложения
 date: 2019-05-24
+url: https://www.youtube.com/watch?v=V8oTJ8OZ5S0&t=1134
 tags:
   - react
   - statemanagement

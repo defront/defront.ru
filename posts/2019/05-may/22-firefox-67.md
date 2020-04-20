@@ -2,6 +2,7 @@
 title: Релиз Firefox 67
 description: О нововведениях в Firefox 67
 date: 2019-05-22
+url: https://hacks.mozilla.org/2019/05/firefox-67-dark-mode-css-webrender/
 tags:
   - Firefox
   - announcement

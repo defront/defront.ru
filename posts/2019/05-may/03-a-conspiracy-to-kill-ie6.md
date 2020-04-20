@@ -2,6 +2,7 @@
 title: История о том, как началось движение против IE6
 description: Рассказ бывшего разработчика youtube про начало движения против IE6
 date: 2019-05-03
+url: http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6
 tags:
   - ie6
   - history

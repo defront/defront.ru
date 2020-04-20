@@ -2,6 +2,7 @@
 title: Теоретический минимум для программиста
 description: Что следут знать прогаммисту, рекомендуемые темы и книги
 date: 2019-05-01
+url: https://sharpc.livejournal.com/67583.html
 tags:
   - programming
   - musings
