@@ -1,5 +1,5 @@
 ---
-title: Анти-паттерны производительности: Base64
+title: Анти-паттерны производительности — Base64
 description: Объяснение, почему инлайн изображений в CSS с помощью Base64 является анти-паттерном
 date: 2019-05-26
 url: https://calendar.perfplanet.com/2018/performance-anti-patterns-base64-encoding/
