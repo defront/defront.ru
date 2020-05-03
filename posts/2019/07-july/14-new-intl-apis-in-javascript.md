@@ -1,5 +1,5 @@
 ---
-title: Новое API для интернационализации в JavaScript — Intl API
+title: Intl API — интернационализация JavaScript-приложений
 description: Как использовать Intl API для интернационализации приложений в JS
 date: 2019-07-14
 url: https://blog.bitsrc.io/new-intl-apis-in-javascript-c50dc89d2cf3
