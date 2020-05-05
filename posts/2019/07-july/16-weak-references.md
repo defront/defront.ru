@@ -1,6 +1,6 @@
 ---
 title: Слабые ссылки и финализаторы (WeakRef)
-description: Объяснение принципа работы WeakRef — предложения добавления в стандарт ECMAScript
+description: Объяснение принципа работы WeakRef — предложение о добавлении в стандарт ECMAScript
 date: 2019-07-16
 url: https://v8.dev/features/weak-references
 tags:
