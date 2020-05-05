@@ -1,5 +1,5 @@
 ---
-title: Опыт использования нативной ленивой загрузка в Chrome
+title: Опыт использования нативной ленивой загрузки в Chrome
 description: Энди Поттс из BBC поделился опытом использования lazy loading
 date: 2019-08-14
 url: https://medium.com/bbc-design-engineering/native-lazy-loading-has-arrived-c37a165d70a5
