@@ -4,6 +4,7 @@ description: Рассуждения о том, почему не стоит ис
 date: 2019-08-05
 url: https://alistapart.com/article/responsible-javascript-part-1/
 tags:
+  - js
   - performance
   - musings
 layout: layouts/post.njk
