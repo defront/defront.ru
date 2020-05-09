@@ -1,7 +1,7 @@
 ---
 title: Надёжная стратегия загрузки шрифтов на CSS Tricks
 description: Зак Лезерман рассказал, как он ускорял загрузку web-шрифтов на CSS Tricks 
-date: 2019-09-15
+date: 2019-09-14
 url: https://www.zachleat.com/web/css-tricks-web-fonts/
 tags:
   - performance
