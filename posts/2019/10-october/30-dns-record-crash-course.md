@@ -1,5 +1,5 @@
 ---
-title: Креш-курс в DNS
+title: Креш-курс по DNS
 description: Крис Ачард в твиттере рассказал про самые главные записи DNS
 date: 2019-10-30
 url: https://twitter.com/chrisachard/status/1188870256971915265?s=20
