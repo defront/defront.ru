@@ -1,5 +1,5 @@
 ---
-title: WebAssembly в Яндекс.Картах и почему оставили JavaScript"
+title: WebAssembly в Яндекс.Картах и почему оставили JavaScript
 description: Валерий Щавель из Яндекс.Карт рассказал на хабре про опыт использования WebAssembly
 date: 2019-11-27
 url: https://habr.com/ru/company/yandex/blog/475382/
