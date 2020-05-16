@@ -1,6 +1,6 @@
 ---
 title: Что лучше button или link?
-description: Марси Саттон рассказала про использование кнопок и ссылок в современных web-интерфейсах
+description: Марси Саттон рассказывает про использование кнопок и ссылок в современных web-интерфейсах
 date: 2020-01-02
 url: https://marcysutton.com/links-vs-buttons-in-modern-web-applications
 tags:
