@@ -1,5 +1,5 @@
 ---
-title: Микробраузере повсюду
+title: Микробраузеры повсюду
 description: Колин Бенделл из Cloudinary рассказал про микробраузеры, и почему они важны.
 date: 2019-12-19
 url: https://24ways.org/2019/microbrowsers-are-everywhere/
