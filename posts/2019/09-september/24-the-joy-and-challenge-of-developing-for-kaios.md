@@ -1,5 +1,5 @@
 ---
-title: Радости и вызывоы при разработке на KaiOS
+title: Радости и вызовы при разработке на KaiOS
 description: Нолан Лоусон недавно написал пост про особенности разработки сайтов под KaiOS
 date: 2019-09-24
 url: https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/
