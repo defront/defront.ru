@@ -1,7 +1,7 @@
 ---
 title: Производительность как основа
 description: Никита Прокопов поделился своими мыслями по поводу известного высказывания "Premature optimization is the root of all evil"
-date:
+date: 2020-01-28
 url: https://tonsky.me/blog/performance-first/
 tags:
   - programming
