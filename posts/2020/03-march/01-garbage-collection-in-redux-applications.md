@@ -1,5 +1,5 @@
 ---
-title: Сборка мусора в Redux приложении
+title: Сборка мусора в Redux-приложении
 description: Доклад Яна Моншке из Soundcloud про оптимизацию потребления памяти в Redux-приложении — "Garbage Collection in Redux Applications"
 date: 2020-03-01
 url: https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications?ref=mdbootstrap.com
