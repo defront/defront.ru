@@ -1,5 +1,5 @@
 ---
-title:
+title: IntersectionObserver API
 description: Джереми Вагнер запустил новый канал на youtube и рассказал про IntesectionObserver
 date: 2020-03-27
 url: https://www.youtube.com/watch?v=3Esjyp7wnhQ
