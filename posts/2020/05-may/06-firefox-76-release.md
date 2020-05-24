@@ -1,7 +1,7 @@
 ---
 title: Релиз Firefox 76 — Audio worklets, CSS System Colors и другое
 description: Обзор новых фич Firefox 76 — аудио ворклеты, системные цвета в CSS, улучшение инструментов разработчика
-date: 2020-05-07
+date: 2020-05-06
 url: https://hacks.mozilla.org/2020/05/firefox-76-audio-worklets-and-other-tricks/
 tags:
   - firefox
