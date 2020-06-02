@@ -2,7 +2,7 @@
 title: Релиз Chrome 83
 description: Новинки релиза - Trusted Types API, обновленные html-контролы, performance.measureMemory() и другое
 date: 2020-05-20
-url: https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/
+url: posts/2020/05-may/21-what-every-developer-should-know-about-tcp.md
 tags:
   - announcement
   - chrome
