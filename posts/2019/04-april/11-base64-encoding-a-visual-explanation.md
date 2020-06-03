@@ -2,6 +2,7 @@
 title: Кодировка base64 - визуальное объяснение
 description: Описание алгоритма base64 с визуализацией
 date: 2019-04-11
+url: https://www.lucidchart.com/techblog/2017/10/23/base64-encoding-a-visual-explanation/
 tags:
   - base64
   - algorithm

@@ -2,6 +2,7 @@
 title: Как я стал лучшим программистом
 description: Опыт Джеймса Лонга в карьере программирования
 date: 2019-04-12
+url: https://jlongster.com/How-I-Became-Better-Programmer
 tags:
   - musings
   - career

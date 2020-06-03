@@ -2,6 +2,7 @@
 title: Разбираемся в Subresource Integrity
 description: Объяснение зачем нужен Subresource Integrity и как его использовать
 date: 2019-04-10
+url: https://www.smashingmagazine.com/2019/04/understanding-subresource-integrity/ 
 tags:
   - security
   - cdn

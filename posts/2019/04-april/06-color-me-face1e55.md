@@ -2,6 +2,7 @@
 title: Цвет FACE1E55
 description: Мысли про восьмичисленные шестнадцатиричные коды цветов
 date: 2019-04-06
+url: https://meyerweb.com/eric/thoughts/2019/04/01/color-me-face1e55/
 tags:
   - css
   - colors

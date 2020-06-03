@@ -2,6 +2,7 @@
 title: Обновленная имплементация поддержки ES2015 Modules в Node.js
 description: Пул-реквест в Node.js с добавлением новой имплементации поддержки ESM
 date: 2019-03-21
+url: https://github.com/nodejs/node/pull/26745
 tags:
   - nodejs
   - modules

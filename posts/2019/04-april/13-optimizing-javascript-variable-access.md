@@ -2,10 +2,12 @@
 title: Оптимизация доступа к переменным в JavaScript
 description: Описание алгоритма доступа к переменным в SpiderMonkey
 date: 2019-04-13
+url: https://blog.mozilla.org/luke/2012/10/02/optimizing-javascript-variable-access/ 
 tags:
   - spidermonkey
   - optimization
   - js
+  - internals
 layout: layouts/post.njk
 ---
 Сегодня прочитал статью 2012 года Люка Вагнера "Optimizing JavaScript variable access". В статье Люк написал про то, каким образом он оптимизировал доступ к переменным в SpiderMonkey (js-движок в Firefox).

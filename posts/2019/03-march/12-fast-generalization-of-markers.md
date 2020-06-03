@@ -2,6 +2,7 @@
 title: Быстрая генерализация маркеров на WebGL-карте
 description: Подход к генерализации маркеров, который используется в новой версии 2ГИС
 date: 2019-03-12
+url: https://habr.com/ru/company/2gis/blog/442720/
 tags:
   - map
   - webgl

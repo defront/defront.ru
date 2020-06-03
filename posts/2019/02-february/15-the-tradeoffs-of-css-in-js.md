@@ -2,6 +2,7 @@
 title: Недостатки CSS-in-JS
 description: Недостатки подхода CSS-in-JS
 date: 2019-02-15
+url: https://medium.com/@oleg008/the-tradeoffs-of-css-in-js-bee5cf926fdb
 tags:
   - cssinjs
   - css

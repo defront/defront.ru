@@ -2,6 +2,7 @@
 title: Lucent - нативный рантайм для WebAssembly от Fastly
 description: Анонс создания рантайма и компилятора WebAssembly
 date: 2019-03-29
+url: https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime 
 tags:
   - webassembly
   - wasi

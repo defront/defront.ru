@@ -2,6 +2,7 @@
 title: Забытая история ООП
 description: Как появилось объектно-ориентированное программирование и что такое MOP
 date: 2019-02-23
+url: https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f
 tags:
   - oop
   - history

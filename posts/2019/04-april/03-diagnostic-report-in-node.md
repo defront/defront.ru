@@ -2,6 +2,7 @@
 title: Diagnostic Report в Node.js
 description: Знакомство с Diagnostic Report в Node.js
 date: 2019-04-03
+url: https://developer.ibm.com/articles/easily-identify-problems-in-your-nodejs-apps-with-diagnostic-report/
 tags:
   - nodejs
   - troubleshooting

@@ -2,6 +2,7 @@
 title: Чем занималась команда flow последнее время
 description: Статья от команды flow про причины их молчания последнее время
 date: 2019-01-29
+url: https://medium.com/flow-type/what-the-flow-team-has-been-up-to-54239c62004f
 tags:
   - flow
   - announcement

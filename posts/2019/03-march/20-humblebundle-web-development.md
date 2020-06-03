@@ -2,6 +2,7 @@
 title: Книги по web-разработке на humblebundle
 description: Подборка книга по web-разработке на humblebundle.com
 date: 2019-03-20
+url: https://www.humblebundle.com/books/web-programming-oreilly-books
 tags:
   - book
   - deals

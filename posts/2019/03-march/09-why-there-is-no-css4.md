@@ -2,10 +2,12 @@
 title: Почему не будет CSS4
 description: Объяснение нового подхода с уровнями в CSS
 date: 2019-03-09
+url: https://www.rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels
 tags:
   - css
   - csswg
   - webstandards
+  - history
 layout: layouts/post.njk
 ---
 Наткнулся на пост, написанный Рейчел Эндрю в 2016 году, в котором она рассказывает про то, почему не будет CSS4 "Why there is no CSS4 - explaining CSS Levels".

@@ -2,6 +2,7 @@
 title: Минимифицируем и сжимаем передаваемые данные с brotli
 description: Туториал про настройку сжатия brotli
 date: 2019-03-25
+url: https://web.dev/fast/reduce-network-payloads-using-text-compression/codelab-text-compression-brotli
 tags:
   - performance
   - nodejs

@@ -2,6 +2,7 @@
 title: Numeric Separators в Chrome 75
 description: Твит про развделители в числовых литералах.
 date: 2019-04-23
+url: https://twitter.com/_gsathya/status/1120389255619055616?s=21
 tags:
   - v8
   - proposal

@@ -2,6 +2,7 @@
 title: Что ожидать в Vue 3.0?
 description: Обзор нововведений в будущей версии Vue 3.0
 date: 2019-02-18
+url: https://medium.com/@mattmaribojoc/what-does-vue-3-0-mean-for-web-development-851052fc0138
 tags:
   - vue
   - js

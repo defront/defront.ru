@@ -2,6 +2,7 @@
 title: Фронтенд без JavaScript
 description: Опыт создания фронтенд проекта без JavaScript
 date: 2019-03-30
+url: https://dev.to/winduptoy/a-javascript-free-frontend-2d3e
 tags:
   - webdevelopement
   - javascript

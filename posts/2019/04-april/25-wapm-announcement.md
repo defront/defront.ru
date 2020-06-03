@@ -2,6 +2,7 @@
 title: WAPM - The WebAssembly Package Manager
 description: Анонс релиза пакетного менеджера для WebAssembly - WAPM
 date: 2019-04-25
+url: https://medium.com/wasmer/announcing-wapm-the-webassembly-package-manager-18d52fae0eea
 tags:
   - webassembly
   - package

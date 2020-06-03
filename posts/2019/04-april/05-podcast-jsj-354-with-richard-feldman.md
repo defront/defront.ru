@@ -2,6 +2,7 @@
 title: JSJ 354 Подкаст про Elm с Ричардом Фельдманом
 description: Небольшой пересказ подкаста JavaScript Jabber про Elm
 date: 2019-04-05
+url: https://dev.to/jsjabber/jsj-354-elm-with-richard-feldman
 tags:
   - elm
   - podcast

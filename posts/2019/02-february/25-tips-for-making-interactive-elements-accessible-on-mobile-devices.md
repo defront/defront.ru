@@ -2,6 +2,7 @@
 title: Советы для улучшения a11y интерактивных элементов на мобильных девайсах
 description: Список советов для улушчения a11y на мобильных сайтах
 date: 2019-02-25
+url: https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/
 tags:
   - ui
   - a11y

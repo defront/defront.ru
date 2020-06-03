@@ -2,6 +2,7 @@
 title: Кэширование кода в V8
 description: Объяснение как кэшируется код в V8
 date: 2019-04-09
+url: https://v8.dev/blog/code-caching-for-devs
 tags:
   - v8
   - performance

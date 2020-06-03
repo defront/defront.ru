@@ -2,6 +2,7 @@
 title: Нативная ленивая загрузка изображений для веба
 description: Описание работы нового атрибута loading у изображений и iframe'ов
 date: 2019-04-07
+url: https://addyosmani.com/blog/lazy-loading/
 tags:
   - html
   - lazy

@@ -2,6 +2,7 @@
 title: KV-Storage в Chrome
 description: Анонс первого встроенного модуля kv-storage и описание его API
 date: 2019-04-02
+url: https://developers.google.com/web/updates/2019/03/kv-storage 
 tags:
   - builtinmodule
   - announcement

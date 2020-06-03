@@ -2,6 +2,7 @@
 title: Объяснение принципа работы алгоритмов симметричного шфирования
 description: Особенности реализации алгоритмов DES, 3DES, AES, RC4, ChaCha20
 date: 2019-03-15
+url: https://habr.com/ru/post/443050/
 tags:
   - cryptography
   - security

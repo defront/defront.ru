@@ -2,6 +2,7 @@
 title: XML и JSON подобны картону
 description: Размышления по поводу того, чем является JSON и XML для ИТ
 date: 2019-02-17
+url: https://queue.acm.org/detail.cfm?id=3143320
 tags:
   - musings
   - xml

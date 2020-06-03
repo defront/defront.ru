@@ -2,6 +2,7 @@
 title: История о выгорании
 description: Молии Струв рассказала про свою историю выгорания и что ей помогло
 date: 2019-03-05
+url: https://dev.to/molly_struve/i-cant-do-it-all-my-burnout-story-1e54
 tags:
   - productivity
   - psychology

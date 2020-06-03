@@ -2,6 +2,7 @@
 title: Доклад про Babel от его создателя
 description: Небольшой доклад от Себастьяна Маккинзи про Babel
 date: 2019-02-03
+url: https://www.youtube.com/watch?v=rKuNbEwoQfQ
 tags:
   - babel
   - talk

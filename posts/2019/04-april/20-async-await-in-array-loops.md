@@ -2,6 +2,7 @@
 title: Подводные камни async/await в циклах
 description: Async/Await в циклах
 date: 2019-04-20
+url: https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb
 tags:
   - js
   - async

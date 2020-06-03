@@ -4,7 +4,7 @@ description: Рассказ бывшего разработчика youtube пр
 date: 2019-05-03
 url: http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6
 tags:
-  - ie6
+  - ie
   - history
   - google
 layout: layouts/post.njk

@@ -2,6 +2,7 @@
 title: Ember.js - документальный фильм
 description: Документальный фильм про Ember.js
 date: 2019-03-02
+url: https://www.youtube.com/watch?v=Cvz-9ccflKQ
 tags:
   - jsframeworks
   - emberjs

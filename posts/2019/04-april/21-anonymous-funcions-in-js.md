@@ -2,6 +2,7 @@
 title: Анонимные функции в JavaScript
 description: Подробный разбор анонимных функций в JavaScript
 date: 2019-04-21
+url: https://medium.com/devschacht/anonymous-functions-in-javascript-ff6b9ba85de0
 tags:
   - js
   - specification

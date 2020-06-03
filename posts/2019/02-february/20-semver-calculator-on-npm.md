@@ -2,6 +2,7 @@
 title: Semver-калькулятор
 description: Semver-калькулятор на npmjs.com
 date: 2019-02-20
+url: https://semver.npmjs.com
 tags:
   - npm
   - tool

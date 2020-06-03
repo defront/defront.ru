@@ -2,6 +2,7 @@
 title: Создание интерфейсов в коносоли с помощью Ink и React
 description: Статья про библиотеку Ink
 date: 2019-03-16
+url: https://vadimdemedes.com/posts/building-rich-command-line-interfaces-with-ink-and-react
 tags:
   - library
   - react

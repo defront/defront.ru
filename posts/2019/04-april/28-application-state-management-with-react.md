@@ -2,6 +2,7 @@
 title: Управление состоянием приложения с помощью React
 description: Подход к управлению состоянием приложения в React без использования сторонних библиотек
 date: 2019-04-28
+url: https://kentcdodds.com/blog/application-state-management-with-react
 tags:
   - react
   - statemanagement

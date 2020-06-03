@@ -2,6 +2,7 @@
 title: Малоизвестные CSS-свойства
 description: Обзор малоизвестных CSS-свойств с их визуализацией
 date: 2019-03-18
+url: https://medium.com/@PavelLaptev/lesser-known-css-properties-in-gifs-966a143497ba
 tags:
   - css
   - future

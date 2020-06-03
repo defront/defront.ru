@@ -2,6 +2,7 @@
 title: Визуализация алгоритма нестрогого сравнения в JavaScript
 description: Онлайн-приложение для визуализации нестрогого сравнения в JavaScript
 date: 2019-03-11
+url: https://felix-kling.de/js-loose-comparison/
 tags:
   - specification
   - js
@@ -12,4 +13,4 @@ layout: layouts/post.njk
 
 С помощью этого приложения можно наглядно увидеть, почему `'\n' == false` или `[0] == ![0]` дадут истинный результат.
 
-https://felix-kling.de/js-loose-comparison/ 
+https://felix-kling.de/js-loose-comparison/

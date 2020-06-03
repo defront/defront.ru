@@ -2,6 +2,7 @@
 title: Разнообразие браузеров начинается с нас
 description: Размышления по поводу доминирования Chromium-based браузеров
 date: 2019-02-09
+url: https://www.zeldman.com/2018/12/07/browser-diversity-starts-with-us/
 tags:
   - web
   - chromium
@@ -14,4 +15,4 @@ layout: layouts/post.njk
 
 Он призывает не рассматривать альтернативные браузеры как второй сорт, а, наоборот, поддерживать их в своих проектах на должном уровне, если мы хотим лучшего будущего для web-платформы.
 
-https://www.zeldman.com/2018/12/07/browser-diversity-starts-with-us/ 
+https://www.zeldman.com/2018/12/07/browser-diversity-starts-with-us/

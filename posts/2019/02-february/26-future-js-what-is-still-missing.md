@@ -2,6 +2,7 @@
 title: Чего ещё не хватает в JavaScript?
 description: Мысли о статье Акселя Раушмайера про пути развития JavaScript
 date: 2019-02-26
+url: http://2ality.com/2019/01/future-js.html
 tags:
   - js
   - Future

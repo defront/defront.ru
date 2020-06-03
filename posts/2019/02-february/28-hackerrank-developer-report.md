@@ -2,6 +2,7 @@
 title: Результаты опроса программистов на Hackerrank
 description: Результаты опроса 70 тысяч программистов от Hackerrank
 date: 2019-02-28
+url: http://info.hackerrank.com/rs/487-WAY-049/images/HackerRank_2019-Developer-Skills-Report.pdf
 tags:
   - survey
   - results

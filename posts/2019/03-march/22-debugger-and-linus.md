@@ -2,6 +2,7 @@
 title: Почему Линус Торвальдс не использует дебаггер
 description: Старое письмо Линуса, в котором он рассказывает, почему не любит дебаггеры
 date: 2019-03-22
+url: https://lwn.net/2000/0914/a/lt-debugger.php3
 tags:
   - debug
   - programming

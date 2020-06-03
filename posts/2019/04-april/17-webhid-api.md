@@ -2,6 +2,7 @@
 title: Новый WebHID API - доступ к Bluetooth/USB HID-устройствам в web-приложениях
 description: Обзор нового WebHID API
 date: 2019-04-17
+url: https://blog.scottlogic.com/2019/04/03/upcoming-webhid-api.html
 tags:
   - chromium
   - webplatform

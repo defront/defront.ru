@@ -2,6 +2,7 @@
 title: Использование SSE вместо WebSockets
 description: Использование server-sent events для односторонней отправки данных с использованием HTTP/2
 date: 2019-03-14
+url: https://www.smashingmagazine.com/2018/02/sse-websockets-data-flow-http2/
 tags:
   - polling
   - sse

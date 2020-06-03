@@ -2,6 +2,7 @@
 title: React & БЭМ – официальная коллаборация
 description: Причины использования React на странице поиска Яндекса
 date: 2019-02-05
+url: https://habr.com/ru/company/yandex/blog/438598/
 tags:
   - yandex
   - bem

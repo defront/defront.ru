@@ -2,6 +2,7 @@
 title: Зачем необходимо нормализовывать Unicode-строки
 description: Объяснение необходимости нормализации Unicode-строк
 date: 2019-03-19
+url: https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html
 tags:
   - unicode
   - normalization

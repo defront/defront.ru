@@ -2,6 +2,7 @@
 title: Введение в WebBluetooth API
 description: Пример использования WebBluetooth
 date: 2019-02-22
+url: https://www.smashingmagazine.com/2019/02/introduction-to-webbluetooth/
 tags:
   - webapi
   - bluetooth

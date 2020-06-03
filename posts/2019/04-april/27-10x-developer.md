@@ -2,6 +2,7 @@
 title: На пути к 10x (результаты). Чему программисты могут научиться у лучших
 description: Результаты опроса программистов о лучших и худших качествах и советы как достигнуть 10x
 date: 2019-04-27
+url: https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
 tags:
   - programming
   - psychology

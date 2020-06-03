@@ -2,6 +2,7 @@
 title: Что такое CSS-in-JS?
 description: Описание подхода CSS-in-JS
 date: 2019-02-14
+url: https://medium.com/dailyjs/what-is-actually-css-in-js-f2f529a2757
 tags:
   - cssinjs
   - css

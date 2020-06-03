@@ -2,6 +2,7 @@
 title: Знакомтесь, модальное окно
 description: Подходы при создании модальных окон в вебе
 date: 2019-03-08
+url: https://www.youtube.com/watch?v=s6PI8pKQxgo
 tags:
   - ui
   - talk

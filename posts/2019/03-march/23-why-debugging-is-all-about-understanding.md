@@ -2,6 +2,7 @@
 title: Почему в основе отладки лежит понимание
 description: Мысли Андре Стальца про отладку
 date: 2019-03-23
+url: https://www.futurice.com/blog/why-debugging-is-all-about-understanding/
 tags:
   - debug
   - programming

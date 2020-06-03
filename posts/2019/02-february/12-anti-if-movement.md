@@ -2,6 +2,7 @@
 title: Кампания Anti-if
 description: Представление кампании Anti-if
 date: 2019-02-12
+url: https://francescocirillo.com/pages/anti-if-campaign
 tags:
   - programming
   - softwaredesign
@@ -13,4 +14,4 @@ layout: layouts/post.njk
 
 В общем, это интересная кампания, которая заслуживает того, чтобы вы про неё по крайней мере узнали. 
 
-https://francescocirillo.com/pages/anti-if-campaign 
+https://francescocirillo.com/pages/anti-if-campaign

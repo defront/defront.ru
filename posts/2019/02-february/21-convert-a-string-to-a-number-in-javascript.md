@@ -2,6 +2,7 @@
 title: Конвертирование строки в число в JavaScript
 description: Особенности конвертирования строк в числа в JavaScript
 date: 2019-02-21
+url: http://thecodebarbarian.com/convert-a-string-to-a-number-in-javascript.html
 tags:
   - js
   - quirks

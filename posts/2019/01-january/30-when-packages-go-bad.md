@@ -2,6 +2,7 @@
 title: Минимизация рисков взлома npm-пакетов
 description: Советы про то как улучшить защиту npm-пакетов
 date: 2019-01-30
+url: https://jakearchibald.com/2018/when-packages-go-bad/
 tags:
   - security
   - npm

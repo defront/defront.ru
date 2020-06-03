@@ -2,6 +2,7 @@
 title: Релиз React v16.8 с поддержкой хуков
 description: Анонс выпуска новой версии реакт и планы релизов на ближайшее время
 date: 2019-02-06
+url: https://reactjs.org/blog/2019/02/06/react-v16.8.0.html
 tags:
   - react
   - hooks

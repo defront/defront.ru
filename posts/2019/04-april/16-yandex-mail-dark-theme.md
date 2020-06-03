@@ -2,6 +2,7 @@
 title: Как создать тёмную тему и не навредить. Опыт команды Яндекс.Почты
 description: Опыт создания темной темы для Яндекс.Почты
 date: 2019-04-16
+url: https://habr.com/ru/company/yandex/blog/446780/
 tags:
   - css
   - colors

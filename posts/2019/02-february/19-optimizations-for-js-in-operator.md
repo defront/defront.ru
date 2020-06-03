@@ -2,6 +2,7 @@
 title: Предложение по оптимизации оператора in
 description: Предложение от разработчика Microsoft по оптимизации оператора in в v8
 date: 2019-02-19
+url: https://docs.google.com/document/d/1tIfzywY8AeNVcy_sen-5Xev21MeZwjcU8QhSdzHvXig/edit
 tags:
   - js
   - v8

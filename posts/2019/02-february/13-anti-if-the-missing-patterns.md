@@ -2,6 +2,7 @@
 title: Паттерны Anti-if
 description: Пример паттернов, которые позволяют писать без условий
 date: 2019-02-13
+url: https://code.joejag.com/2016/anti-if-the-missing-patterns.html
 tags:
   - programming
   - java

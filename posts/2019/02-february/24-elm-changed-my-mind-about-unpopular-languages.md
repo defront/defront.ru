@@ -2,6 +2,7 @@
 title: Elm изменил моё представление о непопулярных языках
 description: Мысли о статье Александра Кэмпбелла про Elm
 date: 2019-02-24
+url: https://blog.realkinetic.com/elm-changed-my-mind-about-unpopular-languages-190a23f4a834
 tags:
   - elm
   - fp

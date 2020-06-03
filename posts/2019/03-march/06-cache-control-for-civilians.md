@@ -2,6 +2,7 @@
 title: Cache-Control для гражданских
 description: Нюансы настройки кэширования ресурсов на клиенте
 date: 2019-03-06
+url: https://csswizardry.com/2019/03/cache-control-for-civilians/
 tags:
   - http
   - cache

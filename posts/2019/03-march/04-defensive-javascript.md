@@ -2,6 +2,7 @@
 title: Защитный JavaScript
 description: Каких подходов следует придерживаться, чтобы писать безопасный код
 date: 2019-03-04
+url: https://www.javascriptjanuary.com/blog/defensive-javascript
 tags:
   - js
   - security

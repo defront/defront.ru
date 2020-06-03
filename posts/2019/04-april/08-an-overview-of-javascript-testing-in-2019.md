@@ -2,6 +2,7 @@
 title: Тестирование в JavaScript в 2019 году
 description: Подборка актуальных JavaScript инструментов тестирования в 2019 году
 date: 2019-04-08
+url: https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2019-264e19514d0a 
 tags:
   - js
   - testing

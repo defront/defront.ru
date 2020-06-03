@@ -2,6 +2,7 @@
 title: Почему браузеры скачивают стили для несматченных медиавыражений
 description: Объяснение особенностей поведения работы браузера при загрузке стилей
 date: 2019-03-24
+url: https://blog.tomayac.com/2018/11/08/why-browsers-download-stylesheets-with-non-matching-media-queries-180513
 tags:
   - css
   - mediaqueries

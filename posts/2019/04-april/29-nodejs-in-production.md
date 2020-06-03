@@ -2,6 +2,7 @@
 title: Никогда-никогда не запускайте Node.js напрямую в продакшене. Возможно.
 description: Почему не следует запускать Node.js напрямую без pm2, systemd и т.п.
 date: 2019-04-29
+url: https://medium.freecodecamp.org/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6
 tags:
   - nodejs
   - pm2

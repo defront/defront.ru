@@ -2,6 +2,7 @@
 title: Код ревью
 description: Основные принципы хорошего и полезного код ревью
 date: 2019-03-13
+url: https://slonoed.net/ru/code-review/
 tags:
   - musings
   - codereview

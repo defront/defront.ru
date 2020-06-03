@@ -2,6 +2,7 @@
 title: Выводы после двух лет использования TypeScript
 description: Мысли Камиля Заграбского по поводу двухлетнего опыта использования TypeScript
 date: 2019-04-01
+url: https://ecom.software/en/after-two-years-with-typescript-was-it-worth-it/
 tags:
   - typescript
   - musings

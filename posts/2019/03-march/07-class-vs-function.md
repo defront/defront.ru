@@ -2,6 +2,7 @@
 title: Избыточный код в классах
 description: Пример того, когда класс может быть заменён паттерном "модуль"
 date: 2019-03-07
+url: https://twitter.com/getify/status/1101491957916938240?s=21
 tags:
   - js
   - context

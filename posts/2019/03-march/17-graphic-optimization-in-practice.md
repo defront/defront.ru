@@ -2,6 +2,7 @@
 title: Оптимизация графики на практике
 description: Доклад Тима Чаптыкова про оптимизацию графики
 date: 2019-03-17
+url: https://www.youtube.com/watch?v=wexOXAflVX0
 tags:
   - graphic
   - optimization

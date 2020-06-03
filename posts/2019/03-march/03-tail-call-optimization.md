@@ -2,6 +2,7 @@
 title: Оптимизация хвостовой рекурсии
 description: Объяснение принципа работы оптимизации хвостовой рекурсии (TCO)
 date: 2019-03-03
+url: http://2ality.com/2015/06/tail-call-optimization.html
 tags:
   - js
   - tco

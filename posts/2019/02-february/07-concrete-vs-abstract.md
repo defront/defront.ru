@@ -2,6 +2,7 @@
 title: Решайте ту проблему, которую нужно решить
 description: Никита Прокопов про принцип YAGNI
 date: 2019-02-07
+url: http://tonsky.me/blog/concrete-vs-abstract/
 tags:
   - musings
   - clojure
@@ -14,4 +15,4 @@ layout: layouts/post.njk
 
 "Вот чему научила меня экосистема Clojure. Все должно быть конкретным. У Clojure просто нет средств для переобобщения кода. Он либо конкретен как бетон, либо его нет".
 
-http://tonsky.me/blog/concrete-vs-abstract/ 
+http://tonsky.me/blog/concrete-vs-abstract/

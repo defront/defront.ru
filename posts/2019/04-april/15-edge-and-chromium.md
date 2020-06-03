@@ -2,6 +2,7 @@
 title: Что ожидать нового в каналах Microsoft Edge Insider
 description: Анонс запланированных работ в Edge после перехода на Chromium
 date: 2019-04-15
+url: https://blogs.windows.com/msedgedev/2019/04/08/microsoft-edge-preview-channel-details/
 tags:
   - chromium
   - edge

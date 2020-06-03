@@ -2,6 +2,7 @@
 title: Вебпак, вид сквозь монокль
 description: Доклад про использование Webpack
 date: 2019-02-11
+url: https://www.youtube.com/watch?v=iWPu3Crpys0&t=6077
 tags:
   - webpack
   - talk

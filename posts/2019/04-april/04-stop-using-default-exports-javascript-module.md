@@ -2,6 +2,7 @@
 title: Почему я перестал экспортировать default из JavaScript-модулей
 description: Мнение Николаса Закаса про использовние default экспортов
 date: 2019-04-04
+url: https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/
 tags:
   - js
   - modules

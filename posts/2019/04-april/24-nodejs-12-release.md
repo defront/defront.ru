@@ -2,6 +2,7 @@
 title: Представление Node.js 12
 description: Анонс релиза Node.js 12
 date: 2019-04-24
+url: https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f
 tags:
   - nodejs
   - release

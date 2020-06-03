@@ -2,6 +2,7 @@
 title: Pyodide - python datascience-стек в браузере
 description: Анонс релиза Pyodide - python datascience-стек в браузере
 date: 2019-04-22
+url: https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/
 tags:
   - webassembly
   - datascience

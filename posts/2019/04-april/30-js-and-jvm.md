@@ -2,6 +2,7 @@
 title: Сравнение JVM альтернатив для JavaScript
 description: Проекты для создания клиентских web-приложений, использующие Java-toolchain
 date: 2019-04-30
+url: https://renato.athaydes.com/posts/comparing-jvm-alternatives-to-js.html
 tags:
   - js
   - jvm

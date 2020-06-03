@@ -2,6 +2,7 @@
 title: Как хорошие менеджеры работают с техническим долгом
 description: Размышления по поводу технического долга
 date: 2019-02-16
+url: https://productcoalition.com/how-great-product-managers-deal-with-technical-debt-453edec3d473
 tags:
   - pm
   - product

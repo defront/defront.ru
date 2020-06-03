@@ -2,6 +2,7 @@
 title: Прогнозы про web и технологии на 2019 год
 description: Эрик Эллиот рассказывает про наиболее востребованные темы для изучения в 2019 году
 date: 2019-02-04
+url: https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20
 tags:
   - web
   - js

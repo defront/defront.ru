@@ -2,6 +2,7 @@
 title: Знакомство с lit-element и веб-компонентами на его основе
 description: Знакомство с API lit-element
 date: 2019-03-27
+url: https://habr.com/ru/post/445438/ 
 tags:
   - webcomponents
   - litelement

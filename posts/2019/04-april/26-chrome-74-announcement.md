@@ -2,6 +2,7 @@
 title: Что нового в Chrome 74
 description: Полезные новые возможности для разработчиков в Chrome 74
 date: 2019-04-26
+url: https://developers.google.com/web/updates/2019/04/nic74
 tags:
   - chrome
   - release

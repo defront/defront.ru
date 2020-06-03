@@ -2,6 +2,7 @@
 title: Индексация строк в Internet Explorer
 description: Рассказ про проблему с индексацией строк в IE
 date: 2019-02-10
+url: https://unspecified.wordpress.com/2008/06/15/portable-javascript-string-indexing/
 tags:
   - js
   - history
@@ -13,4 +14,4 @@ layout: layouts/post.njk
 
 Теперь давайте немного посчитаем. IE6 вышел в 2001 году, IE8 - в 2009 году. 8 лет потребовалось, чтобы сделать жизнь JS-разработчикам немножко лучше. Вот яркий пример, к чему может привести монополия.
 
-https://unspecified.wordpress.com/2008/06/15/portable-javascript-string-indexing/ 
+https://unspecified.wordpress.com/2008/06/15/portable-javascript-string-indexing/

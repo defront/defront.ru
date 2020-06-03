@@ -2,6 +2,7 @@
 title: Новые математические функции в CSS
 description: Анонс добавления в стандарт CSS новых математических функций
 date: 2019-03-01
+url: https://twitter.com/bdc/status/1100921258839953408
 tags:
   - css
   - csswg

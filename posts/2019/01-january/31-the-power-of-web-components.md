@@ -2,6 +2,7 @@
 title: Сила web-компонентов
 description: Статья про web-компоненты
 date: 2019-01-31
+url: https://hacks.mozilla.org/2018/11/the-power-of-web-components/
 tags:
   - webcomponents
   - webstandards

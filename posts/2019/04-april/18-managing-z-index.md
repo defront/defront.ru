@@ -2,6 +2,7 @@
 title: Управление z-index'ами в приложениях, построенных на компонентах
 description: Подход к управлению z-index'ами в приложениях, построенных на компонентах
 date: 2019-04-18
+url: https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/
 tags:
   - css
   - layout

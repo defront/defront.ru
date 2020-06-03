@@ -2,6 +2,7 @@
 title: Всё, что вам надо знать о переносах в CSS
 description: Как работать с переносами строк в CSS
 date: 2019-03-31
+url: http://clagnut.com/blog/2395
 tags:
   - typography
   - css

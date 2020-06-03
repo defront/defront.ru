@@ -2,6 +2,7 @@
 title: Стандартизация WASI - системного интерфейса для запуска WebAssembly вне браузера
 description: Анонс начала работы над WASI
 date: 2019-03-28
+url: https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/
 tags:
   - webassembly
   - wasi

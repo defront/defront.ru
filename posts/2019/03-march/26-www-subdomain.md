@@ -2,6 +2,7 @@
 title: Зачем нужен поддомен www?
 description: История возникновения поддомента www и его актуальность на сегодняшний день
 date: 2019-03-26
+url: https://love2dev.com/blog/www-subdomain/
 tags:
   - web
   - www
