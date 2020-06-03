@@ -8,8 +8,23 @@ navtitle: Home
 <div class="content-inner">
     <h1 class="main-title">Последние публикации</h1>
 
+    {% set postsTotal = collections.posts.length - 10 %}
+    {% set totalRemainder = postsTotal % 10 %}
+
+    {% if postsTotal >= 10 and postsTotal <= 19 %}
+    {% set postsPlural = 'публикаций' %}
+    {% elif totalRemainder == 0 %}
+    {% set postsPlural = 'публикаций' %}
+    {% elif totalRemainder == 1 %}
+    {% set postsPlural = 'публикацию' %}
+    {% elif totalRemainder >= 2 and totalRemainder <= 4 %}
+    {% set postsPlural = 'публикации' %}
+    {% elif totalRemainder >= 5 and totalRemainder <= 9 %}
+    {% set postsPlural = 'публикаций' %}
+    {% endif %}
+
     {% set postslist = collections.posts | head(-10) %}
     {% include "postslistShort.njk" %}
 
-    <p class="main-more">Больше публикаций можно найти в <a class="link" href="{{ '/posts/' | url }}">архиве</a></p>
+    <p class="main-more">Ещё {{postsTotal}} {{postsPlural}} можно найти в <a class="link" href="{{ '/posts/' | url }}">архиве</a></p>
 </div>
