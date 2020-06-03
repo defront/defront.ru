@@ -182,11 +182,6 @@ body, div, h1, p {
     text-decoration: underline;
 }
 
-.about-text {
-    margin: 0 auto;
-    max-width: 600px;
-}
-
 .content-inner {
     margin-top: 20px;
     display: flex;
