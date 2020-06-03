@@ -8,22 +8,15 @@
 }
 
 /* Posts list */
-.postlist {
-  list-style: none;
+.postlist.postlist_short {
   padding: 0;
+  list-style: none;
 }
 .postlist-item {
-  counter-increment: start-from -1;
-}
-.postlist-item:before {
-  display: inline-block;
-  pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
-  line-height: 100%;
-  text-align: right;
+  padding-bottom: 7px;
 }
 .postlist-date,
-.postlist-item:before {
+.postlist-item::marker {
   font-size: 0.8125em; /* 13px /16 */
   color: #333;
 }

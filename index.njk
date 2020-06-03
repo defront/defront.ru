@@ -6,10 +6,10 @@ navtitle: Home
 ---
 
 <div class="content-inner">
-    <h1 class="main-title">Последние 10 публикаций</h1>
+    <h1 class="main-title">Последние публикации</h1>
 
     {% set postslist = collections.posts | head(-10) %}
-    {% include "postslist.njk" %}
+    {% include "postslistShort.njk" %}
 
-    <p class="main-more">Больше публикаций можно найти в <a class="link" href="{{ '/posts/' | url }}">архиве</a>.</p>
+    <p class="main-more">Больше публикаций можно найти в <a class="link" href="{{ '/posts/' | url }}">архиве</a></p>
 </div>
