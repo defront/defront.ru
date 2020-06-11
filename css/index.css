@@ -2,14 +2,20 @@
   --background-color: white;
   --text-color: rgba(0, 0, 0, 0.86);
   --marker-color: #333;
+  --accent-color: #009688;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #2b2c2d;
-    --text-color: white;
+    --background-color: #232526;
+    --text-color: #dadada;
     --marker-color: white;
-  }  
+    --accent-color: #458881;
+  }
+
+  .logo__img {
+    filter: saturate(0.6);
+  }
 }
 
 html, body {
@@ -146,14 +152,6 @@ body, div, h1, p {
     text-align: center;
 }
 
-.logo__img_small {
-    max-width: 40px;
-}
-
-.logo__img_big {
-    max-width: 200px;
-}
-
 .logo__title {
     font-family: Arial, sans-serif;
     font-size: 4.5em;
@@ -183,7 +181,7 @@ body, div, h1, p {
 
 .link,
 .link:visited {
-    color: #009688;
+    color: var(--accent-color);
     text-decoration: none;
 }
 .link:hover {
@@ -192,7 +190,7 @@ body, div, h1, p {
 
 .main-content a,
 .main-content a:visited {
-    color: #009688;
+    color: var(--accent-color);
     text-decoration: none;
 }
 .main-content a:hover {
