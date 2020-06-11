@@ -6,7 +6,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: black;
+    --background-color: #2b2c2d;
     --text-color: white;
     --marker-color: white;
   }  
