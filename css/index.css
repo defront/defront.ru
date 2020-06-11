@@ -1,3 +1,17 @@
+:root {
+  --background-color: white;
+  --text-color: rgba(0, 0, 0, 0.86);
+  --marker-color: #333;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: black;
+    --text-color: white;
+    --marker-color: white;
+  }  
+}
+
 html, body {
   background-color: var(--background-color);
 }
