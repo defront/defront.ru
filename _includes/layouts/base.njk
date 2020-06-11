@@ -6,8 +6,11 @@
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
     <title>{{ renderData.title or title or metadata.title }}</title>
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
+    <link rel="stylesheet" href="{{ '/css/theme-dark.css' | url }}" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="{{ '/css/theme-light.css' | url }}" media="(prefers-color-scheme: light)">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/code.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/code-dark.css' | url }}" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="{{ '/css/code.css' | url }}" media="(prefers-color-scheme: light)">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript" >
