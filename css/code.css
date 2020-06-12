@@ -134,7 +134,7 @@ pre > code.highlight {
   */
   code[class*="language-"],
   pre[class*="language-"] {
-    background: #272822;
+    background: #131a1d;
     color: #f8f8f2;
   }
 
