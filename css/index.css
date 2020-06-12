@@ -1,3 +1,26 @@
+:root {
+  --background-color: white;
+  --text-color: rgba(0, 0, 0, 0.86);
+  --marker-color: #333;
+  --accent-color: #009688;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #232526;
+    --text-color: #dadada;
+    --marker-color: white;
+    --accent-color: #458881;
+  }
+
+  .logo__img {
+    filter: saturate(0.6);
+  }
+}
+
+html, body {
+  background-color: var(--background-color);
+}
 
 /* Header */
 .home {
@@ -18,7 +41,7 @@
 .postlist-date,
 .postlist-item::marker {
   font-size: 0.8125em; /* 13px /16 */
-  color: #333;
+  color: var(--marker-color);
 }
 .postlist-date {
   word-spacing: -0.5px;
@@ -74,11 +97,11 @@ body, div, h1, p {
     padding: 15px;
     max-width: 800px;
     min-width: 320px;
-    background-color: white;
+    background-color: var(--background-color);
     font-size: 19px;
     font-family: Georgia, Cambria, "Times New Roman", Times, serif;
     line-height: 1.5em;
-    color: rgba(0, 0, 0, .86);
+    color: var(--text-color);
 }
 
 .main-header {
@@ -129,14 +152,6 @@ body, div, h1, p {
     text-align: center;
 }
 
-.logo__img_small {
-    max-width: 40px;
-}
-
-.logo__img_big {
-    max-width: 200px;
-}
-
 .logo__title {
     font-family: Arial, sans-serif;
     font-size: 4.5em;
@@ -166,7 +181,7 @@ body, div, h1, p {
 
 .link,
 .link:visited {
-    color: #009688;
+    color: var(--accent-color);
     text-decoration: none;
 }
 .link:hover {
@@ -175,7 +190,7 @@ body, div, h1, p {
 
 .main-content a,
 .main-content a:visited {
-    color: #009688;
+    color: var(--accent-color);
     text-decoration: none;
 }
 .main-content a:hover {
