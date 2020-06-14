@@ -34,6 +34,6 @@ assert.deepEqual(books, [{
 }]);
 ```
 
-Логические операторы присваивания находятся на третьем этапе добавления в стандарт. Его поддержка появилась в Firefox 77, Safari Technology Preview 107, и в V8 v8.4 (Chrome 85).
+Логические операторы присваивания находятся на третьем этапе добавления в стандарт. Его поддержка появилась в Firefox Nightly 77, Safari Technology Preview 107, и в V8 v8.4 (Chrome 85).
 
 https://2ality.com/2020/06/logical-assignment-operators.html
