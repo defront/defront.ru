@@ -1,5 +1,5 @@
 ---
-title: CSS Overview — анализ CSS на текущей странице
+title: CSS Overview — анализ CSS на странице
 description: Амит Мерчант написал пост про новую экспериментальную фичу Chrome Dev Tools — CSS Overview
 date: 2020-06-29
 url: https://www.amitmerchant.com/experimental-css-overview-feature-chrome-awesome/
