@@ -169,14 +169,18 @@ body, div, h1, p {
 .nav {
     margin: 12px 0 0;
     padding: 0;
-    width: 250px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .nav__item {
     list-style: none;
+}
+
+.nav__item:not(:last-child) {
+    padding-right: 12px;
 }
 
 .link,
