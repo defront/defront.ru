@@ -5,7 +5,8 @@ date: 2020-07-19
 url: https://www.ctrl.blog/entry/webp-avif-comparison.html
 tags:
   - graphics
-  - performance
+  - optimization
+  - benchmark
 layout: layouts/post.njk
 ---
 Дэниэл Александерсен поделился результатами сравнения WebP и AVIF в статье "Comparing AVIF vs WebP file sizes at the same DSSIM".
