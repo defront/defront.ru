@@ -2,7 +2,7 @@
 title: Семантическая подсветка синтаксиса
 description: Гиллель Уэйн поделился своими мыслями о том, как можно улучшить подсветку синтаксиса
 date: 2020-07-25
-url: https://svelte.dev/blog/svelte-and-typescript
+url: https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/
 tags:
   - programming
   - musings
