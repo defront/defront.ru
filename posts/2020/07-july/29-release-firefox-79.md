@@ -8,7 +8,7 @@ tags:
   - firefox
 layout: layouts/post.njk
 ---
-Вчера вышел Firefox 79. Флориан Шольц и Гарольд Киршнер [рассказали](https://hacks.mozilla.org/2020/07/firefox-79/) про все новинки релиза — "New in Firefox 78: DevTools improvements, new regex engine, and abundant web platform updates".
+Вчера вышел Firefox 79. Флориан Шольц и Гарольд Киршнер [рассказали](https://hacks.mozilla.org/2020/07/firefox-79/) про все новинки релиза — "Firefox 79: The safe return of shared memory, new tooling, and platform updates".
 
 В конце 2018 года из-за атаки Spectre во всех браузерах были отключены разделяемая память (SharedArrayBuffer) и таймеры с высоким разрешением. В Firefox 79 поддержка этих фич вернулась на место, но для их использования страница должна быть изолирована с помощью HTTP-заголовков `Cross-Origin-Opener-Policy: same-origin` и `Cross-Origin-Embedder-Policy: require-corp`. Возврат поддержки `SharedArrayBuffer` также позволил реализовать WebAssembly Threads.
 
