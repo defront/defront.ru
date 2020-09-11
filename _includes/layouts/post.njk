@@ -2,8 +2,10 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
-
-{{ content | safe }}
+<article>
+  <h1>{{ title }}</h1>
+  <p class="article__info"><time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>, Александр Мышов</p>
+  {{ content | safe }}
+</article>
 
 <p><a href="{{ '/' | url }}">← На главную</a></p>

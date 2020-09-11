@@ -156,6 +156,7 @@ body, div, h1, p {
     font-family: Arial, sans-serif;
     font-size: 4.5em;
     margin: 36px 0 32px;
+    font-weight: bold;
 }
 
 .logo__subtitle {
@@ -206,6 +207,10 @@ body, div, h1, p {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.article__info {
+  font-size: .8em;
 }
 
 /* Tags */

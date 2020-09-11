@@ -37,31 +37,35 @@
   <div class="layout">
     <header class="main-header">
       <div class="logo">
-          <img
-              width="50"
-              height="50"
-              class="logo__img"
-              src="/img/logo_small.png" alt="Логотип проекта Defront"
-          />
-          <h3 class="logo__title">Defront</h3>
-          <h4 class="logo__subtitle">Про фронтенд-разработку и&nbsp;не&nbsp;только</h4>
+        <img
+            width="50"
+            height="50"
+            class="logo__img"
+            src="/img/logo_small.png" alt="Логотип проекта Defront"
+        />
+        <div class="logo__title">Defront</div>
+        <div class="logo__subtitle">Про фронтенд-разработку и&nbsp;не&nbsp;только</div>
       </div>
-      <ul class="nav">
+      <nav aria-label="основное меню сайта">
+        <ul class="nav">
           <li class="nav__item"><a class="link" href="/">Главная</a></li>
           <li class="nav__item"><a class="link" href="/posts/">Архив</a></li>
           <li class="nav__item"><a class="link" href="/acknowledgement/">Благодарности</a></li>
           <li class="nav__item"><a class="link" href="/about/">О проекте</a></li>
-      </ul>
+        </ul>
+      </nav>
     </header>
 
     <main class="main-content">
-        {{ content | safe }}
+      {{ content | safe }}
     </main>
 
     <footer class="main-footer">
+      <nav aria-label="дополнительное меню сайта">
         <p class="footer-item">Зеркало телеграм-канала <a class="link" href="https://t.me/defront">defront</a></p>
         <p class="footer-item">Автор проекта <a class="link" href="http://myshov.com">@myshov</a></p>
         <p class="footer-item">Сделано с помощью <a class="link" href="https://www.11ty.io">11ty</a></p>
+      </nav>
     </footer>
 
   </body>
