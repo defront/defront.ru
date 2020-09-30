@@ -1,5 +1,5 @@
 ---
-title: Предложение о добавлении декларативного способа создания Shadow DOM
+title: Предложение о добавлении декларативного способа создания Shadow DOM (Declarative Shadow DOM)
 description: Мэйсон Фрид из команды разработки Chrome представил предложение о добавлении декларативного способа создания Shadow DOM
 date: 2020-02-23
 url: https://github.com/mfreed7/declarative-shadow-dom
