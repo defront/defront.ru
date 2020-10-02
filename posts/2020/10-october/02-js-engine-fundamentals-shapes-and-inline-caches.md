@@ -1,5 +1,5 @@
 ---
-title: Основные концепции JS-движков — Shapes и Inline Cahces
+title: Основные концепции JS-движков — Shapes и Inline Caches
 description: Основные концепции современных JS-движков — Shapes и Inline Cahces
 date: 2020-10-02
 url: https://mathiasbynens.be/notes/shapes-ics
@@ -8,7 +8,7 @@ tags:
   - internals
 layout: layouts/post.njk
 ---
-Вчера, когда писал пост про Indicium, в ссылках увидел очень интересную статью Матиаса Байненса и Бендикта Мюрера про концепции, которые используются при создании всех современных JS-движков — "JavaScript engine fundamentals: Shapes and Inline Caches".
+Вчера, когда писал пост про Indicium, в ссылках увидел очень интересную статью Матиаса Байненса и Бенедикта Мюрера про концепции, которые используются при создании всех современных JS-движков — "JavaScript engine fundamentals: Shapes and Inline Caches".
 
 Современные движки (V8, SpiderMonkey, JavaScriptCore, Chakra) преобразуют абстрактное синтаксическое дерево программы в байткод, который исполняется интерпретатором. Во время исполнения программы собирается дополнительная информация, на основе которой оптимизирующий компилятор преобразует байткод в машинный код. В разных движках этот пайплайн компиляции/интерпретации уникален. В V8 есть один оптимизирующий компилятор (TurboFan), в SpiderMonkey два (Baseline, Ion Monkey), в JavaScriptCore три (Baseline, DFG, FTL).
 
