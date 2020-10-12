@@ -1,5 +1,5 @@
 ---
-title: Релиз Webpack 5
+title: Что нового в Webpack 5
 description: Новинки релиза — улучшения скорости сборки, улучшение поддержки долгосрочного кэширования бандлов и tree shaking. Реализован новый подход для работы с ассетами. Добавлен Module Federation и многое другое
 date: 2020-10-11
 url: https://webpack.js.org/blog/2020-10-10-webpack-5-release/
