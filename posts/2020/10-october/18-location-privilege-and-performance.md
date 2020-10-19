@@ -1,7 +1,7 @@
 ---
 title: Производительные сайты и привелегии
 description: Стэфани Стимак из Microsoft поделилась своими мыслями про производительность сайтов с точки зрения деревенского жителя
-date: 2020-10-19
+date: 2020-10-18
 url: https://blog.stephaniestimac.com/posts/10-30-2019-performance/
 tags:
   - performance
