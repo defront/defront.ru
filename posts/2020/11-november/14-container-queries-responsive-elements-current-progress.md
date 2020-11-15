@@ -1,5 +1,5 @@
 ---
-title: Текущий статус имплементации выражений от контейнера  
+title: Текущий статус имплементации выражений от контейнера
 description: Обзор текущего статуса, на котором находится реализация выражений от контейнеров
 date: 2020-11-14
 url: https://bkardell.com/blog/AllThemSwitches.html https://twitter.com/stubbornella/status/1324524942650601472
