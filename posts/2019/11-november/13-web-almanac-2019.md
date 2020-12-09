@@ -1,5 +1,5 @@
 ---
-title: HTTP альманах 2019
+title: Web альманах 2019
 description: Подборка отчётов за 2019 год, посвящённых разным web-технологиям и темам
 date: 2019-11-13
 url: https://almanac.httparchive.org/en/2019/
