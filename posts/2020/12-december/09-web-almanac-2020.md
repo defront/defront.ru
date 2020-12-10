@@ -1,7 +1,7 @@
 ---
 title: Web альманах 2020
 description: Подборка отчётов за 2020 год, посвящённых разным web-технологиям и темам
-date: 2020-12-08
+date: 2020-12-09
 url: https://almanac.httparchive.org/en/2020/
 tags:
   - report
