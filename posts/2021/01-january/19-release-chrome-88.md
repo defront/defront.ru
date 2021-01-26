@@ -1,5 +1,5 @@
 ---
-title: Релиз Chrome 87
+title: Релиз Chrome 88
 description: Новинки релиза — новая платформа для создания рашсирений, троттлинг цепочек таймеров, добавление CSS-свойства aspect-ratio и многое другое
 date: 2021-01-19
 url: https://developers.google.com/web/updates/2021/01/nic88 https://developers.google.com/web/updates/2020/11/devtools
