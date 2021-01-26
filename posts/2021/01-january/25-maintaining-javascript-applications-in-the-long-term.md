@@ -1,7 +1,7 @@
 ---
 title: Опыт постепенной модернизации фроентенд-проекта
 description: Матиас Шэфер рассказывает об опыте поддержки фронтенд-проекта на протяжении шести лет
-date: 2021-01-24
+date: 2021-01-25
 url: https://9elements.com/blog/maintaining-javascript-applications-in-the-long-term/ 
 tags:
   - js
