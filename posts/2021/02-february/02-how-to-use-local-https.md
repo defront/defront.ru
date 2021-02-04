@@ -5,6 +5,7 @@ date: 2021-02-02
 url: https://web.dev/how-to-use-local-https/
 tags:
   - http
+  - tool
 layout: layouts/post.njk
 ---
 Мод Нальпас рассказала о том, как настроить HTTPS для локальной разработки  — "How to use HTTPS for local development".
