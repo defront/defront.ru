@@ -1,7 +1,7 @@
 ---
 title: Dependency Confusion
 description: Алекс Бирсан — исследователь в области информационной безопасности — опубликовал статью о том, как ему удалось получить доступ к внутренним сетям 35 организаций
-date: 2021-02-10
+date: 2021-02-11
 url: https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610 https://azure.microsoft.com/en-us/resources/3-ways-to-mitigate-risk-using-private-package-feeds/
 tags:
   - security
