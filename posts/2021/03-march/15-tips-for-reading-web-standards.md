@@ -1,7 +1,7 @@
 ---
 title: Как эффективно читать спецификации web-стандартов
 description: Эмили Старк из команды Google Chrome поделилась советами о том, как эффективно читать спецификации web-стандартов
-date: 2021-03-14
+date: 2021-03-15
 url: https://emilymstark.com/2021/03/14/tips-for-reading-web-standards.html
 tags:
   - spec
