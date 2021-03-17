@@ -20,6 +20,6 @@ throw new Error('There was a problem', {
 });
 ```
 
-На данный момент пропозал "Error cause" находится на третьем этапе добавления в стандарт. Его поддержка пока есть только в JS-движке (внезапно) Chakra.
+На данный момент пропозал "Error cause" находится на третьем этапе добавления в стандарт. Его поддержка уже есть в JS-движках Chakra и JavaScriptCore.
 
 https://dev.to/hemanth/error-cause-in-javascript-425d
