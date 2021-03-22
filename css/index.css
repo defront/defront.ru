@@ -140,6 +140,10 @@ body, div, h1, p {
     text-align: center;
 }
 
+.main-sponsor {
+    margin-top: 35px;
+}
+
 .footer-item {
     margin: 0;
     font-size: .8em;
@@ -155,7 +159,7 @@ body, div, h1, p {
 .logo__title {
     font-family: Arial, sans-serif;
     font-size: 4.5em;
-    margin: 36px 0 32px;
+    margin: 24px 0 32px;
     font-weight: bold;
 }
 
@@ -165,6 +169,14 @@ body, div, h1, p {
     font-style: italic;
     font-size: 1em;
     margin: 0 0 12px;
+}
+
+.logo__sponsor {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: normal;
+    font-style: italic;
+    font-size: .8em;
+    margin: 12px 0 0 0;
 }
 
 .nav {
