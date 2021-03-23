@@ -1,7 +1,7 @@
 ---
 title: Релиз V8 9.0
 description: Новинки V8 9.0 — поддержка Match Indicies, ускорен доступ к полям родительского объекта с помощью super и другое
-date: 2021-03-21
+date: 2021-03-22
 url: https://v8.dev/blog/v8-release-90
 tags:
   - release
