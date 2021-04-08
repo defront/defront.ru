@@ -3,6 +3,7 @@
   --text-color: rgba(0, 0, 0, 0.86);
   --marker-color: #333;
   --accent-color: #009688;
+  --highlight-color: #eee;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -11,6 +12,7 @@
     --text-color: rgba(255, 255, 255, 0.86);
     --marker-color: white;
     --accent-color: #458881;
+    --highlight-color: #505050;
   }
 
   .logo__img {
@@ -20,6 +22,13 @@
 
 html, body {
   background-color: var(--background-color);
+}
+
+code {
+  font-size: 17px;
+  font-family: Monaco, Menlo, "Courier New", Courier, monospace;
+  background-color: var(--highlight-color);
+  border: 1px solid #aaa;
 }
 
 /* Header */
