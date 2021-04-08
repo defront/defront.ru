@@ -31,6 +31,10 @@ code {
   border: 1px solid #aaa;
 }
 
+pre code {
+  border: inherit;
+}
+
 /* Header */
 .home {
   padding: 0 1rem;
