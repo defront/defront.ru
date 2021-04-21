@@ -18,6 +18,16 @@
   .logo__img {
     filter: saturate(0.6);
   }
+
+  .zarplata-logo_theme_main {
+    display: none;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .zarplata-logo_theme_dark {
+    display: none;
+  }
 }
 
 html, body {
