@@ -2,7 +2,7 @@
 title: CSS — это сильно типизированный язык
 description: Эрик Белли объясняет на примерах, почему CSS — это сильно типизированный язык
 date: 2021-04-22
-url: https://css-tricks.com/css-is-a-strongly-typed-language/>
+url: https://css-tricks.com/css-is-a-strongly-typed-language/
 tags:
   - css
 layout: layouts/post.njk
