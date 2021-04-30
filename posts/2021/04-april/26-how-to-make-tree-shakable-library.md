@@ -4,7 +4,7 @@ description: Франсуа Хендрикс рассказал о том, ка�
 date: 2021-04-26
 url: https://blog.theodo.com/2021/04/library-tree-shaking/
 tags:
-  - performnce
+  - performance
   - bundle
   - library
 layout: layouts/post.njk
