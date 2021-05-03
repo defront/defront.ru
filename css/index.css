@@ -137,6 +137,7 @@ body, div, h1, p {
 .main-content {
     margin-top: 32px;
     overflow-wrap: break-word;
+    -webkit-hyphens: auto;
     hyphens: auto;
 }
 
