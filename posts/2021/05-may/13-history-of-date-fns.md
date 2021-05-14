@@ -1,7 +1,7 @@
 ---
 title: История развития библиотеки date-fns
 description: Александр Косс рассказал про историю появления и развития библиотеки date-fns
-date: 2021-05-12
+date: 2021-05-13
 url: https://twitter.com/kossnocorp/status/1392449481053032450
 tags:
   - opensource
