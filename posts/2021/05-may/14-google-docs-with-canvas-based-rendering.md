@@ -1,5 +1,5 @@
 ---
-title: Новый движок рендиринга Google Docs на базе canvas
+title: Новый движок рендеринга Google Docs на базе canvas
 description: В блоге Google появилась новость о том, что Google Docs переходит на движок рендеринга, работающий поверх canvas
 date: 2021-05-14
 url: https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html https://news.ycombinator.com/item?id=27129858
