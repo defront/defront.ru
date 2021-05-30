@@ -1,7 +1,7 @@
 ---
 title: Изменение приоритетов разработки Flow
 description: Владан Дзерик из Facebook рассказал об изменении приоритетов разработки Flow
-date: 2021-05-28
+date: 2021-05-29
 url: https://medium.com/flow-type/clarity-on-flows-direction-and-open-source-engagement-e721a4eb4d8b
 tags:
   - flow
