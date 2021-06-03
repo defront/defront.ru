@@ -1,7 +1,7 @@
 ---
 title: Деактивация ссылок с учётом доступности
 description: Скотт О'Хара написал статью про деактивацию ссылок с учётом доступности
-date: 2021-06-02
+date: 2021-06-03
 url: https://www.scottohara.me/blog/2021/05/28/disabled-links.html
 tags:
   - a11y
