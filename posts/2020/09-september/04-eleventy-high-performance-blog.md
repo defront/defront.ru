@@ -6,6 +6,7 @@ url: https://www.industrialempathy.com/posts/eleventy-high-performance-blog/
 tags:
   - library
   - performance
+  - ssg
 layout: layouts/post.njk
 ---
 Eleventy (11ty) — это статический генератор сайтов, который сейчас набирает популярность. Его используют Google, Khan Academy, Netlify. Сайт Defront тоже создаётся с помощью этого движка.

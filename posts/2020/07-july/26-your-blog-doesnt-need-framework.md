@@ -6,6 +6,7 @@ url: https://iainbean.com/posts/2020/your-blog-doesnt-need-a-javascript-framewor
 tags:
   - performance
   - web
+  - ssg
 layout: layouts/post.njk
 ---
 Иан Бин рассказал, почему для своего блога он выбрал Eleventy, а не Gatsby — "Your blog doesn’t need a JavaScript framework".
