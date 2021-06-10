@@ -6,6 +6,7 @@ url: https://www.youtube.com/watch?v=CJrmK3IXC8o
 tags:
   - api
   - video
+  - nodejs
 layout: layouts/post.njk
 ---
 Андрей Мелихов на канале ДевШахты рассказал про Server-Sent Events API — "Server-Sent Events: Простая замена веб-сокетов".
