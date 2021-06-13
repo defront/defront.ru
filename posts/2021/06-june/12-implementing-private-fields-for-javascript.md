@@ -2,7 +2,7 @@
 title: Опыт имплементации приватных полей в JavaScript-движке
 description: Мэттью Гауде — разработчик SpiderMonkey — написал статью про опыт имплементации приватных полей класса в JavaScript-движке
 date: 2021-06-12
-url: https://www.mgaudet.ca/technical/2021/5/4/implementing-private-fields-for-javascript
+url: https://www.mgaudet.ca/technical/2021/5/4/implementing-private-fields-for-javascript https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
 tags:
   - js
   - internals
