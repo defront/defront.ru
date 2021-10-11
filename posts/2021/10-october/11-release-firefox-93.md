@@ -1,7 +1,7 @@
 ---
 title: Релиз Firefox 93
 description: Новинки релиза — добавление поддержки AVIF, HTMLElement.attachInternals(), ElementInternals.shadowRoot
-date: 2021-10-10
+date: 2021-10-11
 url: https://hacks.mozilla.org/2021/10/lots-to-see-in-firefox-93/
 tags:
   - release
