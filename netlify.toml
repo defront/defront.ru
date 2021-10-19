@@ -1,4 +1,4 @@
 [build]
   publish = "_site"
   command = "DEBUG=* eleventy"
-  environment = { NODE_VERSION = "14.18.1" }
+  environment = { NODE_VERSION = "14.18.1", NPM_VERSION = "8.1.0" }
