@@ -6,6 +6,7 @@ url: https://aws.amazon.com/blogs/developer/how-we-halved-the-publish-size-of-mo
 tags:
   - npm 
   - optimization
+  - typescript
 layout: layouts/post.njk
 ---
 Тривикрам Камат из Amazon написал статью про опыт уменьшения размера npm-пакетов — "How we halved the publish size of modular AWS SDK for JavaScript clients".
