@@ -4,7 +4,7 @@ description: На конференции Adobe MAX 2021 были предста�
 date: 2021-10-27
 url: https://web.dev/ps-on-the-web/
 tags:
-  - webassembly 
+  - webassembly
   - announcement
 layout: layouts/post.njk
 ---
@@ -16,6 +16,6 @@ layout: layouts/post.njk
 
 Photoshop for Web поддерживает только базовые функции редактирования изображений и комментирование. Также на презентации была представлена веб-версия Adobe Illustrator, но на данный момент она пока недоступна.
 
-Adobe Photoshop и Illustrator поддерживаются только в Chrome и Edge.
+Adobe Photoshop и Illustrator работают только в Chrome и Edge.
 
 https://web.dev/ps-on-the-web/
