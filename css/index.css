@@ -165,8 +165,9 @@ body, div, h1, p {
     text-align: center;
 }
 
-.main-sponsor {
+.sponsor-title {
     margin-top: 35px;
+    font-size: .8em;
 }
 
 .footer-item {
