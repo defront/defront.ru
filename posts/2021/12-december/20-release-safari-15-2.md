@@ -1,7 +1,7 @@
 ---
 title: Релиз Safari 15.2
 description: Новинки релиза — увеличение памяти для WebAssembly, добавление поддержки HTTP-заголовков Cross-Origin-Opener-Policy и Cross-Origin-Embedder-Policy, добавление поддержки File Access API и другое
-date: 2021-12-17
+date: 2021-12-20
 url: https://webkit.org/blog/12140/new-webkit-features-in-safari-15-2/ https://developer.apple.com/documentation/safari-release-notes/safari-15_2-release-notes
 tags:
   - safari 
