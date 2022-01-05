@@ -1,7 +1,7 @@
 ---
 title: Анализ производительности HTTP/3
 description: В блоге requestmetrics была опубликована статья, посвящённая анализу производительности HTTP/3
-date: 2022-01-03
+date: 2022-01-04
 url: https://requestmetrics.com/web-performance/http3-is-fast
 tags:
   - http 
