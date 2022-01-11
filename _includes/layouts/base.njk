@@ -32,6 +32,31 @@
 
       gtag('config', 'UA-10904475-2');
     </script>
+    <style>
+      .balance-text {
+        visibility: hidden;
+      }
+
+      @media (scripting: none) {
+        .balance-text {
+          visibility: visible;
+        }
+      }
+
+      @supports (text-wrap: balance) {
+        .balance-text {
+          text-wrap: balance;
+          visibility: visible;
+        }
+      }
+    </style>
+    <noscript>
+      <style>
+        .balance-text {
+          visibility: visible !important;
+        }
+      </style>
+    </noscript>
   </head>
   <body>
   <div class="layout">
