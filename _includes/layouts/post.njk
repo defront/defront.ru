@@ -3,7 +3,7 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 <article>
-  <h1>{{ title }}</h1>
+  <h1 class="article-title balance-text">{{ title }}</h1>
   <p class="article__info"><time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>, <a href="https://twitter.com/myshov">Александр Мышов</a></p>
   {{ content | safe }}
 </article>
